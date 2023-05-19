@@ -1,0 +1,6 @@
+- path: "/path/to/directory"
+  commands:
+    - "echo 'File changed'"
+- path: "/another/path/to/directory"
+  commands:
+    - "echo 'File changed in another directory'"

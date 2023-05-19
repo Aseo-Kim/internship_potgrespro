@@ -1,0 +1,7 @@
+- path: "C:/Users/akrit/GolandProjects/awesomeProject/s2"
+  commands:
+    - "go build -o ./app C:/Users/akrit/GolandProjects/awesomeProject/main.go"
+    - "go run ./app"
+- path: "C:/Users/akrit/GolandProjects/awesomeProject/s1"
+  commands:
+    - "go test -v"
